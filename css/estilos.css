@@ -7,3 +7,33 @@ body{
 	margin: 0 auto;
 	outline: 1px solid black
 }
+/*Para aplicar inline a varios elementos*/
+.bloque-inline{
+	display: inline-block;
+}
+
+/*Determinamos clases para especificar anchos en bloques*/
+.ancho10{width: 10%;}
+.ancho20{width: 20%;}
+.ancho30{width: 30%;}
+.ancho40{width: 40%;}
+.ancho50{width: 50%;}
+.ancho60{width: 60%;}
+.ancho70{width: 70%;}
+.ancho80{width: 80%;}
+.ancho90{width: 90%;}
+.ancho100{width: 100%;}
+
+header{}
+header div#bloque-texto-principal{}
+header div#bloque-texto-principal h1{}
+header div#bloque-texto-principal p{}
+header div#bloque-imagen-principal img{}
+
+
+
+
+
+
+
+
